@@ -1,0 +1,15 @@
+{
+    "name": null,
+    "input_variables": [
+        "product"
+    ],
+    "optional_variables": [],
+    "output_parser": null,
+    "partial_variables": {},
+    "metadata": null,
+    "tags": null,
+    "template": "Please summarize research papers about {product} in a concise manner.",
+    "template_format": "f-string",
+    "validate_template": true,
+    "_type": "prompt"
+}
